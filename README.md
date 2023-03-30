@@ -2,7 +2,7 @@
 
 App to search Github users and display their info. This app made with React, Tailwind for CSS, axios is used to make an API call to the Github servers, which returns JSON data that displayed on the screen.
 
-## [Live Demo](https://weather-46qgpvzno-ozan-sert.vercel.app/)
+## [Live Demo](https://github-search-app-hazel.vercel.app/)
 
 ### Technologies Used 
 
